@@ -6,7 +6,7 @@
 
 `$ react-native run-android`
 
-## Run Android
+## Run ios
 
 `$ react-native run-ios`
 
